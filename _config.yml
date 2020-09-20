@@ -2,7 +2,7 @@
 title: The Ethics Bowl Academy
 email: 
 description: 
-baseurl: "/acadmemy" # the subpath of your site, e.g. /blog
+baseurl: "/academy" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Homepage tiles
