@@ -1,7 +1,7 @@
 # Site settings
 title: The Ethics Bowl Academy
 email: 
-description: 
+description: Get prepared today for the Ethics Bowl competition!
 baseurl: "/academy" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
