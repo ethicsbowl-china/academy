@@ -1,7 +1,7 @@
 # Site settings
 title: Moral Philosophy Workshop
 email:
-description: 123
+description:
 baseurl: "/workshop" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
