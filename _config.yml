@@ -1,7 +1,7 @@
 # Site settings
-title: The Ethics Bowl Academy
-email: 
-description: Get prepared today for the Ethics Bowl competition!
+title: Moral Philosophy Workshop
+email:
+description: 123
 baseurl: "/workshop" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -16,13 +16,13 @@ featured-image-source:
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
-googleplus_url: 
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url: 
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # Build settings
 markdown: kramdown
